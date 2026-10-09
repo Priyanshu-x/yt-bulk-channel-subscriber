@@ -1,0 +1,15 @@
+﻿# YouTube Channels to Subscribe
+# ──────────────────────────────
+# Add one channel per line using any of these formats:
+#   @handle       →  @mkbhd
+#   Channel name  →  Fireship
+#   Full URL      →  https://www.youtube.com/@mkbhd
+#
+# Lines starting with # are comments and will be ignored.
+# Blank lines are also ignored.
+
+# Example channels (replace with your own):
+# @mkbhd
+# @Fireship
+# @TraversyMedia
+# @NetworkChuck
